@@ -29,6 +29,7 @@ Highlights
 - Realtime [Traffic Signals Tabular](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=965b868b5535b210VgnVCM1000003dd60f89RCRD&vgnextchannel=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD)
 - [Street Tree Data](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=5af95104c26f3310VgnVCM1000003dd60f89RCRD&vgnextchannel=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD)
 - [Sidewalk Inventory](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=3cdcfb292f426410VgnVCM10000071d60f89RCRD&vgnextchannel=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD)
+
 ## Toronto Planning
 [TO Core](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=222101f2e9745410VgnVCM10000071d60f89RCRD)
 [TO Core Summary](http://www1.toronto.ca/City%20Of%20Toronto/City%20Planning/Core/File/pdf/TOcore-Phase-1-Taking-Stock-Transportation-Summary-Brief%20FINAL-s.pdf)
