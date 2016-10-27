@@ -43,6 +43,10 @@ Highlights
 - [Environment](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=f6ce5d0a02148410VgnVCM10000071d60f89RCRD)
 - [Transportation Planning](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=240652cc66061410VgnVCM10000071d60f89RCRD)
 
+## Ontario Planning
+- [Climate Change Report 2014](https://dr6j45jk9xcmk.cloudfront.net/documents/3618/climate-change-report-2014.pdf)
+- [tagged: climage change](https://www.ontario.ca/search/search-results?tag=Climate%20change)
+
 ## Sponsors
 [![blakes](https://cloud.githubusercontent.com/assets/597920/19748395/636fd63c-9baf-11e6-94e8-ac0702b3d4ce.png)](http://www.blakes.com/English/Pages/default.aspx)
 
