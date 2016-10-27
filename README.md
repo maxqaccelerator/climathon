@@ -1,4 +1,10 @@
-# Climate-KIC Climathon 
+[![climate-kic](https://cloud.githubusercontent.com/assets/597920/19747276/bac206f0-9ba8-11e6-941e-7a74a6506511.png)](https://climathon.climate-kic.org/)
+# Toronto Climathon 
+presented by
+
+[![maxq](https://cloud.githubusercontent.com/assets/597920/19747629/e67b649c-9baa-11e6-9674-308db9195f14.png)](http://www.maxq.ca/)
+[![lhl-logo](https://cloud.githubusercontent.com/assets/597920/19747600/ab1e09ae-9baa-11e6-835d-88bb350e3b30.png)](https://lighthouselabs.ca/)
+
 [Register to hack](https://www.eventbrite.ca/e/toronto-climathon-tickets-27554860329) in Toronto, 28 October 2016
 
 ## NASA Data Sources
@@ -36,3 +42,14 @@ Highlights
 - [Feeling Congested](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=3649837c1b915410VgnVCM10000071d60f89RCRD)
 - [Environment](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=f6ce5d0a02148410VgnVCM10000071d60f89RCRD)
 - [Transportation Planning](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=240652cc66061410VgnVCM10000071d60f89RCRD)
+
+## Sponsors
+[![blakes](https://cloud.githubusercontent.com/assets/597920/19748395/636fd63c-9baf-11e6-94e8-ac0702b3d4ce.png)](http://www.blakes.com/English/Pages/default.aspx)
+
+[![hackernest](https://cloud.githubusercontent.com/assets/597920/19748470/d5b9bcf8-9baf-11e6-93ec-3193fb6bc86f.png)](http://hackernest.com/)
+
+[![odx](https://cloud.githubusercontent.com/assets/597920/19748401/686d2f40-9baf-11e6-832d-9ada9b4ed234.png)](http://codx.ca/)
+
+[![promethean](https://cloud.githubusercontent.com/assets/597920/19748403/6b006894-9baf-11e6-92cc-56ffaabc51a1.png)](http://www.prometheanlabs.ca/)
+
+[![skywatch](https://cloud.githubusercontent.com/assets/597920/19748397/65952a02-9baf-11e6-8835-1955d0afcd82.png)](http://www.skywatch.co/)
