@@ -2,8 +2,8 @@
 # Toronto Climathon 
 presented by
 
-[![maxq](https://cloud.githubusercontent.com/assets/597920/19750890/1a1ec15a-9bc3-11e6-95e6-fef6d57b8535.png)](http://www.maxq.ca/)
 [![lhl-logo](https://cloud.githubusercontent.com/assets/597920/19750891/1c99920c-9bc3-11e6-8f7f-f6fc1a6e7e0a.png)](https://lighthouselabs.ca/)
+[![maxq](https://cloud.githubusercontent.com/assets/597920/19750890/1a1ec15a-9bc3-11e6-95e6-fef6d57b8535.png)](http://www.maxq.ca/)
 
 [Register to hack](https://www.eventbrite.ca/e/toronto-climathon-tickets-27554860329) in Toronto, 28 October 2016
 
