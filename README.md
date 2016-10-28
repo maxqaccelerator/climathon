@@ -1,6 +1,5 @@
-![github-climathon-logo](https://cloud.githubusercontent.com/assets/597920/19815063/10444cc0-9d0f-11e6-848a-e81445f8a277.png)
-
 # Toronto Climathon [![Slack Status](https://climathon-slackin.herokuapp.com/badge.svg)](https://climathon-slackin.herokuapp.com)
+![github-climathon-logo](https://cloud.githubusercontent.com/assets/597920/19815063/10444cc0-9d0f-11e6-848a-e81445f8a277.png)
 presented by
 
 [![maxq](https://cloud.githubusercontent.com/assets/597920/19750890/1a1ec15a-9bc3-11e6-95e6-fef6d57b8535.png)](http://www.maxq.ca/)
